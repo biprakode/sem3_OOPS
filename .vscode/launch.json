@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run q6.Main",
+      "request": "launch",
+      "mainClass": "q6.Main",
+      "projectName": "sem4_java",
+      "args": ["1", ],
+      "vmArgs": "-Xmx512m",
+      "cwd": "${workspaceFolder}/sem4_java"
+    }
+  ]
+}
